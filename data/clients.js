@@ -66,5 +66,5 @@ const Clients = [
           "email": "ricardogomez@gmail.com",
           "active": true
         }
-      ]
-      
+      ];
+module.exports = Clients;
