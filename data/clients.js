@@ -1,70 +1,61 @@
 const Clients = [
-    {
-        "id": "1",
-        "nit": "1",
-        "name": "Valeria Jimenez",
-        "address": "Carrera 38 C#74B 31 SEGUNDO PISO",
-        "city": "BARRANQUILLA (ATL)",
-        "country": "Colombia",
-        "phone": "3002833359",
-        "email": "valeriajimenez0406@gmail.com",
-        "active": true
+  {
+    id: 1,
+    nit: "123456789",
+    name: "Acme Corp",
+    address: "123 Business St",
+    city: "Metropolis",
+    country: "USA",
+    phone: "555-1234",
+    email: "contact@acmecorp.com",
+    active: true,
+    opportunities: [
+      { id: 101, name: "Expansion Project" },
+      { id: 102, name: "Partnership Deal" },
+    ],
+    contacts: [
+      {
+        firstName: "John",
+        lastName: "Doe",
+        email: "john.doe@acmecorp.com",
+        phone: "555-5678",
       },
-      
-        {
-          "id": "2",
-          "nit": "2",
-          "name": "Carlos Rodríguez",
-          "address": "Calle 54 #45-22 OFICINA 201",
-          "city": "BARRANQUILLA (ATL)",
-          "country": "Colombia",
-          "phone": "3104567890",
-          "email": "carlosrodriguez@gmail.com",
-          "active": true
-        },
-        {
-          "id": "3",
-          "nit": "3",
-          "name": "Andrea López",
-          "address": "Carrera 43 #79B-56",
-          "city": "BARRANQUILLA (ATL)",
-          "country": "Colombia",
-          "phone": "3009876543",
-          "email": "andrealopz@hotmail.com",
-          "active": true
-        },
-        {
-          "id": "4",
-          "nit": "4",
-          "name": "Miguel Torres",
-          "address": "Carrera 46 #85-12 APARTAMENTO 304",
-          "city": "BARRANQUILLA (ATL)",
-          "country": "Colombia",
-          "phone": "3123456789",
-          "email": "migueltorres@hotmail.com",
-          "active": true
-        },
-        {
-          "id": "5",
-          "nit": "5",
-          "name": "Laura Martínez",
-          "address": "Calle 75 #41-30 EDIFICIO MIRADOR",
-          "city": "BARRANQUILLA (ATL)",
-          "country": "Colombia",
-          "phone": "3012345678",
-          "email": "lauramartinez@gmail.com",
-          "active": true
-        },
-        {
-          "id": "6",
-          "nit": "6",
-          "name": "Ricardo Gómez",
-          "address": "Carrera 52 #80-15 LOCAL 10",
-          "city": "BARRANQUILLA (ATL)",
-          "country": "Colombia",
-          "phone": "3156789102",
-          "email": "ricardogomez@gmail.com",
-          "active": true
-        }
-      ]
-      
+      {
+        firstName: "Jane",
+        lastName: "Smith",
+        email: "jane.smith@acmecorp.com",
+        phone: "555-8765",
+      },
+    ],
+  },
+  {
+    id: 2,
+    nit: "987654321",
+    name: "Globex Inc.",
+    address: "456 Market Ave",
+    city: "Gotham",
+    country: "Canada",
+    phone: "555-4321",
+    email: "info@globex.com",
+    active: false,
+    opportunities: [
+      { id: 201, name: "New Product Launch" },
+      { id: 202, name: "Research Collaboration" },
+    ],
+    contacts: [
+      {
+        firstName: "Alice",
+        lastName: "Johnson",
+        email: "alice.johnson@globex.com",
+        phone: "555-6789",
+      },
+      {
+        firstName: "Bob",
+        lastName: "Brown",
+        email: "bob.brown@globex.com",
+        phone: "555-9876",
+      },
+    ],
+  },
+];
+export default Clients; 
