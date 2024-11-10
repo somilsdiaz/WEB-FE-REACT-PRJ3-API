@@ -9,10 +9,7 @@ const Clients = [
     "phone": "555-1234",
     "email": "contact@acmecorp.com",
     "active": true,
-    "opportunities": [
-      { "id": 101, "name": "Expansion Project" },
-      { "id": 102, "name": "Partnership Deal" }
-    ],
+    "opportunities": ["101", "102"],
     "contacts": [
       {
         "firstName": "John",
@@ -38,10 +35,7 @@ const Clients = [
     "phone": "555-4321",
     "email": "info@globex.com",
     "active": false,
-    "opportunities": [
-      { "id": 201, "name": "New Product Launch" },
-      { "id": 202, "name": "Research Collaboration" }
-    ],
+    "opportunities": ["201", "202"],
     "contacts": [
       {
         "firstName": "Alice",
