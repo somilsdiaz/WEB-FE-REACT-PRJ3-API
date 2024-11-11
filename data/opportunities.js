@@ -2,7 +2,7 @@ const Opportunities = [
     {
         id: "101",
         businessName: "Acme Corp", 
-        businessLine: "consultoría TI",
+        businessLine: "Consultoría TI",
         description: "Un proyecto destinado a expandir el alcance de mercado de la empresa.",
         estimatedValue: 50000,
         estimatedDate: "2024-12-15",
@@ -11,7 +11,7 @@ const Opportunities = [
     {
         id: "102",
         businessName: "Acme Corp",
-        businessLine: "outsourcing recursos",
+        businessLine: "Outsourcing recursos",
         description: "Una asociación potencial con otras empresas.",
         estimatedValue: 30000,
         estimatedDate: "2024-11-20",
@@ -20,7 +20,7 @@ const Opportunities = [
     {
         id: "201",
         businessName: "Globex Inc.",
-        businessLine: "desarrollo web",
+        businessLine: "Desarrollo web",
         description: "Lanzamiento de una nueva línea de productos.",
         estimatedValue: 75000,
         estimatedDate: "2024-10-10",
@@ -29,7 +29,7 @@ const Opportunities = [
     {
         id: "202",
         businessName: "Globex Inc.",
-        businessLine: "desarrollo mobile",
+        businessLine: "Desarrollo mobile",
         description: "Proyecto de investigación conjunta con una universidad.",
         estimatedValue: 40000,
         estimatedDate: "2024-09-01",
