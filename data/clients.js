@@ -1,6 +1,6 @@
 const Clients = [
   {
-    "id": 1,
+    "id": 100000,
     "nit": "123456789",
     "name": "Acme Corp",
     "address": "123 Business St",
@@ -26,7 +26,7 @@ const Clients = [
     ]
   },
   {
-    "id": 2,
+    "id": 200000,
     "nit": "987654321",
     "name": "Globex Inc.",
     "address": "456 Market Ave",
