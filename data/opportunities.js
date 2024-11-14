@@ -6,7 +6,7 @@ const Opportunities = [
         description: "Un proyecto destinado a expandir el alcance de mercado de la empresa.",
         estimatedValue: 50000,
         estimatedDate: "2024-12-15",
-        status: "EN PROCESO"
+        status: "Apertura"
     },
     {
         id: "102",
@@ -15,7 +15,7 @@ const Opportunities = [
         description: "Una asociación potencial con otras empresas.",
         estimatedValue: 30000,
         estimatedDate: "2024-11-20",
-        status: "GANADA"
+        status: "Orden de Compra"
     },
     {
         id: "201",
@@ -24,7 +24,7 @@ const Opportunities = [
         description: "Lanzamiento de una nueva línea de productos.",
         estimatedValue: 75000,
         estimatedDate: "2024-10-10",
-        status: "PERDIDA"
+        status: "Apertura"
     },
     {
         id: "202",
@@ -33,7 +33,7 @@ const Opportunities = [
         description: "Proyecto de investigación conjunta con una universidad.",
         estimatedValue: 40000,
         estimatedDate: "2024-09-01",
-        status: "CANCELADA"
+        status: "Ejecutada"
     },
 ];
 
