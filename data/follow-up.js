@@ -4,6 +4,7 @@ const FollowUp = [
         opportunityId: "101",
         followUpActivities: [
             {
+            id: "1",
             contactType: "Llamada",
             contactDate: "2024-11-05",
             clientContact: {
@@ -17,6 +18,7 @@ const FollowUp = [
             additionalNotes: "Cliente interesado en recibir una propuesta formal."
             },
             {
+            id: "2",
             contactType: "Correo",
             contactDate: "2024-11-10",
             clientContact: {
@@ -30,6 +32,7 @@ const FollowUp = [
             additionalNotes: "Cliente pidió una cotización detallada."
             },
             {
+            id: "3",
             contactType: "Reunión presencial",
             contactDate: "2024-11-20",
             clientContact: {
@@ -49,6 +52,7 @@ const FollowUp = [
         opportunityId: "102",
         followUpActivities: [
             {
+            id: "4",
             contactType: "Correo",
             contactDate: "2024-09-15",
             clientContact: {
@@ -62,6 +66,7 @@ const FollowUp = [
             additionalNotes: "Cliente interesado en opciones de financiamiento."
             },
             {
+            id: "5",
             contactType: "Llamada",
             contactDate: "2024-09-18",
             clientContact: {
@@ -81,6 +86,7 @@ const FollowUp = [
         opportunityId: "201",
         followUpActivities: [
             {
+            id: "6",
             contactType: "Reunión presencial",
             contactDate: "2024-08-20",
             clientContact: {
@@ -94,6 +100,7 @@ const FollowUp = [
             additionalNotes: "Cliente pidió ajuste en plazos de entrega."
             },
             {
+            id: "7",
             contactType: "Llamada",
             contactDate: "2024-09-10",
             clientContact: {
@@ -107,6 +114,7 @@ const FollowUp = [
             additionalNotes: "Cliente confirmó avance en el proceso de aprobación."
             },
             {
+            id: "8",
             contactType: "Correo",
             contactDate: "2024-09-15",
             clientContact: {
@@ -126,6 +134,7 @@ const FollowUp = [
         opportunityId: "202",
         followUpActivities: [
             {
+            id: "9",
             contactType: "Correo",
             contactDate: "2024-07-25",
             clientContact: {
@@ -139,6 +148,7 @@ const FollowUp = [
             additionalNotes: "Cliente mostró interés en opciones de partnership."
             },
             {
+            id: "10",
             contactType: "Llamada",
             contactDate: "2024-08-01",
             clientContact: {
@@ -152,6 +162,7 @@ const FollowUp = [
             additionalNotes: "Cliente solicita detalles adicionales del plan."
             },
             {
+            id: "11",
             contactType: "Reunión presencial",
             contactDate: "2024-08-15",
             clientContact: {
@@ -165,6 +176,7 @@ const FollowUp = [
             additionalNotes: "Cliente confirmó la asistencia de su equipo técnico."
             },
             {
+            id: "12",
             contactType: "Correo",
             contactDate: "2024-08-20",
             clientContact: {
