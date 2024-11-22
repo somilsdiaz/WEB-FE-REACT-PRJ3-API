@@ -1,7 +1,5 @@
 const FollowUp = [
     {
-        followUpActivities: [
-            {
             id: "1",
             contactType: "Llamada",
             contactDate: "2024-11-05",
@@ -169,7 +167,5 @@ const FollowUp = [
             description: "Correo para entregar documentos de la propuesta.",
             additionalNotes: "Cliente solicitó revisión de presupuesto."
             }
-        ]
-        }
     ];
 module.exports = FollowUp;
