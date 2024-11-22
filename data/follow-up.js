@@ -1,7 +1,5 @@
 const FollowUp = [
     {
-        id: "1",
-        opportunityId: "101",
         followUpActivities: [
             {
             id: "1",
@@ -44,13 +42,7 @@ const FollowUp = [
             salesExecutive: "Maria Perez",
             description: "Reunión para presentación de propuesta final.",
             additionalNotes: "Cliente aprobó el presupuesto inicial."
-            }
-        ]
-        },
-        {
-        id: "2",
-        opportunityId: "102",
-        followUpActivities: [
+            },
             {
             id: "4",
             contactType: "Correo",
@@ -78,13 +70,7 @@ const FollowUp = [
             salesExecutive: "Carlos Rodriguez",
             description: "Llamada para resolver dudas sobre el contrato.",
             additionalNotes: "Cliente solicitó cambios menores en los términos."
-            }
-        ]
-        },
-        {
-        id: "3",
-        opportunityId: "201",
-        followUpActivities: [
+            },
             {
             id: "6",
             contactType: "Reunión presencial",
@@ -126,13 +112,7 @@ const FollowUp = [
             salesExecutive: "Carlos Rodriguez",
             description: "Correo para confirmar detalles del contrato.",
             additionalNotes: "Cliente solicitó una versión revisada del contrato."
-            }
-        ]
-        },
-        {
-        id: "4",
-        opportunityId: "202",
-        followUpActivities: [
+            },
             {
             id: "9",
             contactType: "Correo",
