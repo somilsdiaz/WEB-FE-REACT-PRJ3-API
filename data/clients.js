@@ -6,7 +6,7 @@ const Clients = [
     "address": "123 Business St",
     "city": "Metropolis",
     "country": "USA",
-    "phone": "5551234",
+    "phone": "555-1234",
     "email": "contact@acmecorp.com",
     "active": true,
     "opportunities": ["101", "102"],
@@ -15,13 +15,13 @@ const Clients = [
         "firstName": "John",
         "lastName": "Doe",
         "email": "john.doe@acmecorp.com",
-        "phone": "5555678"
+        "phone": "555-5678"
       },
       {
         "firstName": "Jane",
         "lastName": "Smith",
         "email": "jane.smith@acmecorp.com",
-        "phone": "5558765"
+        "phone": "555-8765"
       }
     ]
   },
@@ -32,7 +32,7 @@ const Clients = [
     "address": "456 Market Ave",
     "city": "Gotham",
     "country": "Canada",
-    "phone": "5554321",
+    "phone": "555-4321",
     "email": "info@globex.com",
     "active": false,
     "opportunities": ["201", "202"],
@@ -41,13 +41,13 @@ const Clients = [
         "firstName": "Alice",
         "lastName": "Johnson",
         "email": "alice.johnson@globex.com",
-        "phone": "5556789"
+        "phone": "555-6789"
       },
       {
         "firstName": "Bob",
         "lastName": "Brown",
         "email": "bob.brown@globex.com",
-        "phone": "5559876"
+        "phone": "555-9876"
       }
     ]
   }
