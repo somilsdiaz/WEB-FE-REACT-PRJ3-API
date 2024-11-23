@@ -11,7 +11,7 @@ const FollowUp = [
                 firstName: "John",
                 lastName: "Doe",
                 email: "john.doe@acmecorp.com",
-                phone: "5555678"
+                phone: "555-5678"
             },
             salesExecutive: "Maria Perez",
             description: "Llamada para discutir términos del proyecto.",
@@ -25,7 +25,7 @@ const FollowUp = [
                 firstName: "Jane",
                 lastName: "Smith",
                 email: "jane.smith@acmecorp.com",
-                phone: "5558765"
+                phone: "555-8765"
             },
             salesExecutive: "Maria Perez",
             description: "Correo de seguimiento sobre especificaciones del servicio.",
@@ -39,7 +39,7 @@ const FollowUp = [
                 firstName: "John",
                 lastName: "Doe",
                 email: "john.doe@acmecorp.com",
-                phone: "5555678"
+                phone: "555-5678"
             },
             salesExecutive: "Maria Perez",
             description: "Reunión para presentación de propuesta final.",
@@ -59,7 +59,7 @@ const FollowUp = [
                 firstName: "Jane",
                 lastName: "Smith",
                 email: "jane.smith@acmecorp.com",
-                phone: "5558765"
+                phone: "555-8765"
             },
             salesExecutive: "Carlos Rodriguez",
             description: "Correo introductorio sobre nuevos servicios de consultoría.",
@@ -73,7 +73,7 @@ const FollowUp = [
                 firstName: "John",
                 lastName: "Doe",
                 email: "john.doe@acmecorp.com",
-                phone: "5555678"
+                phone: "555-5678"
             },
             salesExecutive: "Carlos Rodriguez",
             description: "Llamada para resolver dudas sobre el contrato.",
@@ -93,7 +93,7 @@ const FollowUp = [
                 firstName: "Alice",
                 lastName: "Johnson",
                 email: "alice.johnson@globex.com",
-                phone: "5556789"
+                phone: "555-6789"
             },
             salesExecutive: "Maria Perez",
             description: "Reunión para presentación de propuesta.",
@@ -107,7 +107,7 @@ const FollowUp = [
                 firstName: "Alice",
                 lastName: "Johnson",
                 email: "alice.johnson@globex.com",
-                phone: "5556789"
+                phone: "555-6789"
             },
             salesExecutive: "Carlos Rodriguez",
             description: "Llamada de seguimiento para resolver inquietudes.",
@@ -121,7 +121,7 @@ const FollowUp = [
                 firstName: "Bob",
                 lastName: "Brown",
                 email: "bob.brown@globex.com",
-                phone: "5559876"
+                phone: "555-9876"
             },
             salesExecutive: "Carlos Rodriguez",
             description: "Correo para confirmar detalles del contrato.",
@@ -141,7 +141,7 @@ const FollowUp = [
                 firstName: "Alice",
                 lastName: "Johnson",
                 email: "alice.johnson@globex.com",
-                phone: "5556789"
+                phone: "555-6789"
             },
             salesExecutive: "Maria Perez",
             description: "Correo introductorio sobre colaboración educativa.",
@@ -155,7 +155,7 @@ const FollowUp = [
                 firstName: "Bob",
                 lastName: "Brown",
                 email: "bob.brown@globex.com",
-                phone: "5559876"
+                phone: "555-9876"
             },
             salesExecutive: "Carlos Rodriguez",
             description: "Llamada de seguimiento para discutir colaboración.",
@@ -169,7 +169,7 @@ const FollowUp = [
                 firstName: "Alice",
                 lastName: "Johnson",
                 email: "alice.johnson@globex.com",
-                phone: "5556789"
+                phone: "555-6789"
             },
             salesExecutive: "Maria Perez",
             description: "Reunión para definir cronograma de actividades.",
@@ -183,7 +183,7 @@ const FollowUp = [
                 firstName: "Bob",
                 lastName: "Brown",
                 email: "bob.brown@globex.com",
-                phone: "5559876"
+                phone: "555-9876"
             },
             salesExecutive: "Carlos Rodriguez",
             description: "Correo para entregar documentos de la propuesta.",
